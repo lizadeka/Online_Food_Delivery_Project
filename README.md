@@ -88,5 +88,8 @@ The dataset represents a mock online food delivery platform and includes the fol
 
 ---
 
-## ✅ Conclusion
-This project demonstrates how **SQL-driven analytics** can convert transactional data into **clear, actionable business insights**. It highlights opportunities for revenue growth, improved customer retention, and operational optimization while showcasing strong analytical, problem-solving, and performance-tuning skills.
+## Profile
+ - Liza Deka
+ - Linkedin : https://www.linkedin.com/in/liza-deka-869473369/
+
+---
